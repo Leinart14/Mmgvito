@@ -1,0 +1,20 @@
+body
+{
+    color: blueviolet;
+    text-align: center;
+    font-family:"Arial";
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+width: 70%;
+padding: 1rem;
+text-align: center;
+border: 1px solid #ddd;
+margin: 0;
+}
+#container h1 
+{
+    font-size: 1rem;
+}
