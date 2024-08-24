@@ -51,3 +51,14 @@ margin: 0;
 {
     font-size: 1rem;
 }
+#post
+{
+    paddig: 1em;
+}
+#footer
+{
+
+    background-color: rgb(255, 17, 0);
+    color: rgb(15, 15, 15);
+    text-align: center;
+}
