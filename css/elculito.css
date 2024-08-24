@@ -1,10 +1,6 @@
 body
 {
-<<<<<<< HEAD
-    color: rgb(190, 197, 85);
-=======
-    color: rgb(61, 17, 90);
->>>>>>> mmgvito
+    color: rgb(0, 0, 0);
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0;
@@ -22,9 +18,9 @@ body
     padding: 0;
 
 }
-#Mggvito #logo
+#mmgvito #logo
 {
-    width: 20px;
+    width: 100px;
     vertical-align: middle;
 }
 
@@ -42,12 +38,17 @@ body
 #container
 {
 width: 70%;
-padding: 1rem;
-text-align: center;
+text-align: left;
 border: 1px solid #ddd;
-margin: 0;
+margin: 0 auto;
 }
 #container h1 
 {
     font-size: 1rem;
+}
+#post
+{
+    background: white;
+    padding: 1em;
+
 }
