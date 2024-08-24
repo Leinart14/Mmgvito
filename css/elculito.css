@@ -22,11 +22,7 @@ body
     padding: 0;
 
 }
-#Mggvito #logo
-{
-    width: 20px;
-    vertical-align: middle;
-}
+
 
 #mmgvito #tagline
 {
@@ -36,7 +32,11 @@ body
     font-size: 0.8em;
 
 }
-
+#Mggvito #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
 
 
 #container
@@ -50,4 +50,10 @@ margin: 0;
 #container h1 
 {
     font-size: 1rem;
+}
+
+#footer 
+{
+
+    background-color: orangered;
 }
